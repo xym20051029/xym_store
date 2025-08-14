@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/man/Desktop/vscode_project/build/cmake_install.cmake",
+		"C:/Users/man/Desktop/vscode_project/build/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
